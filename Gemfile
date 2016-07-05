@@ -3,6 +3,12 @@ source 'https://rubygems.org'
 # Assets served to production efficiently and shows useful error messages in Heroku logs
 gem 'rails_12factor', group: :production
 
+# Rspec and Factorygirl for TDD
+group :development, :test do
+  gem 'rspec-rails', '~> 3.0'
+  gem "factory_girl_rails", "~> 4.0"
+end
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
