@@ -1,5 +1,7 @@
 == README
 
+This is a To Do app built with Ruby on Rails and Javascript.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
