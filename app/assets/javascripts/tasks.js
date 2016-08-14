@@ -1,3 +1,5 @@
+// Javascript code moved here from the static page
+
 $(function() {
   // taskHtml method takes in JS representation of task and produces HTML representation using <li> tags
   function taskHtml(task) {
