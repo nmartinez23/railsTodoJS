@@ -1,6 +1,6 @@
 == To Do Application
 
-This is a To Do app built based on todomvc.com which helps you select the right framework for your project.
+This app was built based on todomvc.com which helps you select the right framework for your project.
 
 The following languages, frameworks and tools were used to create this application.
 
