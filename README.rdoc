@@ -1,8 +1,8 @@
 == To Do Application
 
-This app was built based on todomvc.com which helps you select the right framework for your project.
+This single page app was built based on todomvc.com which helps you test out various frameworks for your project. Users are able to add, delete, modify and toggle their todolist. 
 
-The following languages, frameworks and tools were used to create this application.
+The following technologies were used to create this application.
 
 * Ruby on Rails
 * Postgresql database
