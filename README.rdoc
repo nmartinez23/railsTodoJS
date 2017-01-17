@@ -2,6 +2,8 @@
 
 This single page app was built based on todomvc.com which helps you test out various frameworks for your project. Users are able to add, delete, modify and toggle their todolist. Deployed to Heroku: http://railstodojs-nmartinez.herokuapp.com
 
+https://cloud.githubusercontent.com/assets/14083180/22029167/8ba6ce06-dc8e-11e6-90ae-f190328f7801.png
+
 The following technologies were used to create this application.
 
 * Ruby on Rails
